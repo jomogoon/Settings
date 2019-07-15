@@ -33,3 +33,14 @@ deactivate
 
 # How to upgrade python
 https://jcutrer.com/linux/upgrade-python37-ubuntu1810
+
+
+
+# VS Code
+
+C:\dev\projects\py\ChannelBreakoutBot\.vscode/settings.json
+'''
+{
+    "python.pythonPath": ".env\\Scripts\\python.exe"
+}
+'''
